@@ -1,6 +1,5 @@
 https://github.com/mkyong/spring3-mvc-maven-xml-hello-world/network/members 4,0,0,0,4
 https://openjdk.java.net/jeps/321 10,0,2,10,22
-https://github.com/mkyong/spring4-mvc-gradle-xml-hello-world 1,0,0,1,2
 https://openjdk.java.net/ 6,0,1,4,11
 https://choosealicense.com/licenses/mit/ 0,0,0,0,0
 https://github.com/features#hosting 0,0,0,3,3
@@ -45,6 +44,7 @@ https://openjdk.java.net/jeps/174 48,0,1,6,55
 https://mkyong.com/tag/java-13/ 13,3,0,4,20
 https://docs.oracle.com/javase/8/docs/platform/jvmti/jvmti.html 258,0,35,12,305
 http://www.mkyong.com/tutorials/java-regular-expression-tutorials/ 44,15,0,4,63
+https://github.com/topics 3,0,0,1,4
 https://jdk.java.net/archive/ 8,0,0,9,17
 https://mkyong.com/privacy-policy/ 9,3,0,3,15
 https://openjdk.java.net/jeps/318 14,0,2,5,21
@@ -65,6 +65,7 @@ https://mkyong.com/tag/jdom/ 13,4,0,4,21
 https://github.com/security 0,0,0,1,1
 https://tools.ietf.org/html/rfc8446 0,0,0,104,104
 http://www.mkyong.com/tutorials/google-app-engine-tutorial/ 31,23,0,2,56
+https://github.com/mkyong/spring4-mvc-gradle-xml-hello-world 1,0,0,2,3
 https://mkyong.com/all-tutorials-on-mkyong-com/ 16,33,0,1,50
 https://openjdk.java.net/jeps/365 6,0,1,5,12
 https://openjdk.java.net/jeps/332 9,0,1,8,18
@@ -175,7 +176,6 @@ https://github.com/mkyong?tab=followers 8,0,0,1,9
 https://mkyong.com/java/java-multi-line-string-text-blocks/?utm_source=mkyong.com&utm_medium=referral&utm_campaign=afterpost-related&utm_content=link1 60,4,2,1,67
 https://mkyong.com/spring/maven-spring-jdbc-example/?utm_source=mkyong.com&utm_medium=referral&utm_campaign=afterpost-related&utm_content=link8 28,11,0,6,45
 https://mkyong.com/java/java-11-java-flight-recorder/ 82,7,0,1,90
-https://github.com/topics 4,0,0,1,5
 https://github.com/mkyong/core-java/commits?author=mkyong&since=2020-06-01&until=2020-07-01 1,0,0,0,1
 http://jaxb.java.net/tutorial/index.html 11,0,0,4,15
 https://mkyong.com/jdbc/ora-12505-tnslistener-does-not-currently-know-of-sid-given-in-connect-descriptor/ 12,4,0,2,18
