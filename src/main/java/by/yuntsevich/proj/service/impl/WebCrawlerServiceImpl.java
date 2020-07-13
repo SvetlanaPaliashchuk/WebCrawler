@@ -67,9 +67,9 @@ public class WebCrawlerServiceImpl implements WebCrawlerService {
                 } else break;
                 String hits = calculateHits(document, inputWords);
                 ResultInfo resultInfo = new ResultInfo(link, hits);
-                System.out.println(link);
+                //System.out.println(link);
                 //System.out.println(words);
-                System.out.println(hits);
+                //System.out.println(hits);
                 result.add(resultInfo);
 
                 if (linkDepth > 0) {
@@ -163,7 +163,7 @@ public class WebCrawlerServiceImpl implements WebCrawlerService {
      * @return String url + hits
      */
     private String createResultString(ResultInfo resultInfo) {
-        return resultInfo.getUrl() + " " + resultInfo.getHits();
+        return resultInfo.getUrl() + "," + resultInfo.getHits();
     }
 
     /**
