@@ -4,7 +4,7 @@ Web crawler that traverses websites following predefined link depth (8 by defaul
 ## Features
 - Implementation of layered architecture (dao, service, controller). All layers are independent which provides project extensibility. If one of the layers is changed the others don't know about it. Single responsibility principle is supported.
 - Communication between layers through interfaces.
-- Design patterns (singleton, factory, command).
+- Design patterns (singleton, factory).
 - Junit for tests.
 - Maven for build project.
 
